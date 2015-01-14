@@ -1,1 +1,1 @@
-IPython Notebooks for Tuesday 'Beyond the Code...'
+IPython Notebooks for Thursday 'Beyond the Code...'
